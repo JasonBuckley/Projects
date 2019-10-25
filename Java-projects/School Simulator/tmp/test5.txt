@@ -1,0 +1,17 @@
+5
+100,A. AAA,aaa@csumb.edu,111-111-1111
+200,B. BBB,bbb@csumb.edu,222-222-2222
+300,C. CCC,ccc@csumb.edu,333-333-3333
+400,D. DDD,ddd@csumb.edu,444-444-4444
+500,E. EEE,eee@csumb.edu,555-555-5555
+7
+301,CST301 - School.Course 301,50,BIT 101
+302,CST302 - School.Course 302,40,BIT 102
+303,CST303 - School.Course 303,30,BIT 104
+304,CST304 - School.Course 304,20,BIT 104
+305,CST305 - School.Course 305,10,ERROR
+306,CST306 - School.Course 306,10,BIT 101
+307,CST307 - School.Course 307,20,BIT 102
+2
+1111,AAA AAAAA
+2222,FFF FFFFF

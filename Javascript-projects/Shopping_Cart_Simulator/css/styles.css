@@ -1,0 +1,94 @@
+html,body{
+    width:100%;
+    height: 100%;
+}
+
+html{
+    background-color: lightgray;
+}
+
+h1,h2,h3{
+    text-align: center;
+}
+
+h3{
+    font-family: serif;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-size: 3em;
+}
+
+hr{
+    border-color: darkgray;
+}
+
+table{
+    margin: auto;
+    width: 50%;
+    background-color: white;
+}
+
+table,th,td{
+    border: 5px solid black;
+}
+
+th{
+    background-color: yellow;
+}
+
+img{
+    border-radius: 5%;
+    width: 50%;
+    height: 50%;
+}
+
+.infoColumn{
+    width: 50%;
+    text-align: center;
+}
+
+.pictureColumn{
+    width:20%;
+}
+
+.costColumn{
+    text-align: center;
+    width: 10%;
+}
+
+.quanityColumn{
+    text-align: center;
+    width: 10%;
+}
+
+#totalCost{
+    text-decoration: underline;
+}
+
+button{
+    font-size: 1.0em;
+    color: red;
+}
+
+#addToCart{
+    font-size: 1.5em;
+    color: blue;
+}
+
+div{
+    text-align: center;
+}
+
+#disclaimerText{
+    color: yellow;
+}
+
+#csumblogo{
+    width: 15%;
+    height: 15%;
+    padding: 20px;
+}
+
+
